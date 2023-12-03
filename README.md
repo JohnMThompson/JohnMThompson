@@ -6,4 +6,4 @@ In my personal life, I have a passion for reading and am a classically trained f
 
 I was married to my wife Ashley in 2021 and we are the proud owners of a sweet [dog named Finn](https://www.instagram.com/thedognamedfinn/). In my free time, I enjoy spending quality time with my family and friends, and am always looking for new ways to learn and grow.
 
-Check out [my website for more information on my projects](https://johnthompson.io)!
+Check out [my website for more information on my projects](https://johnthompson.io/portfolio)!
