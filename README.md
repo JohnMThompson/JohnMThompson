@@ -12,21 +12,21 @@ Here are a few highlights from my portfolio!
 
 Project | Description | Link
 --- | --- | ---
-Mortgage Rate Tracker | A python script that feeds a Metabase dashboard to track daily mortgage rates | [Dashboard](https://metabase.johnthompson.io/public/dashboard/8eef25a5-d8a4-4033-96e6-b828af13b025) / [Blog](https://johnthompson.io/posts/mortgage-scraper/)
-Finnstructions | A static site built with mkdocs to outline care for our dog, Finn | [Site](https://johnthompson.io/finnstructions/) /  [GitHub Repo](https://github.com/JohnMThompson/finnstructions)
-Twins Home Run Record | A Tableau dashboard tracking the 2019 Minnesota Twins home run race | [Tableau Public](https://public.tableau.com/app/profile/johnthompson/viz/TwinsHomeruns/Dashboard)
-Spatial Freight Cost Estimation | A method to estimate truck prices using geospatial data | [Presentation](https://www.linkedin.com/in/johnmthomp/overlay/1534972789625/single-media-viewer/) / [Dashboard](https://public.tableau.com/app/profile/johnthompson/viz/InverseDistanceWeightedInterpolation/TCAUGInverseTriangulationDemo)
+🏡 Mortgage Rate Tracker | A python script that feeds a Metabase dashboard to track daily mortgage rates | [Dashboard](https://metabase.johnthompson.io/public/dashboard/8eef25a5-d8a4-4033-96e6-b828af13b025) / [Blog](https://johnthompson.io/posts/mortgage-scraper/)
+🐶 Finnstructions | A static site built with mkdocs to outline care for our dog, Finn | [Site](https://johnthompson.io/finnstructions/) /  [GitHub Repo](https://github.com/JohnMThompson/finnstructions)
+⚾ Twins Home Run Record | A Tableau dashboard tracking the 2019 Minnesota Twins home run race | [Tableau Public](https://public.tableau.com/app/profile/johnthompson/viz/TwinsHomeruns/Dashboard)
+🚛 Spatial Freight Cost Estimation | A method to estimate truck prices using geospatial data | [Presentation](https://www.linkedin.com/in/johnmthomp/overlay/1534972789625/single-media-viewer/) / [Dashboard](https://public.tableau.com/app/profile/johnthompson/viz/InverseDistanceWeightedInterpolation/TCAUGInverseTriangulationDemo)
 
 Check out [my website for more projects](https://johnthompson.io/portfolio)!
 
 ## 🛠️ Tools
 
 ![Analytics and BI](https://img.shields.io/badge/analytics_and_business_intelligence-505050?style=for-the-badge)\
-![KNIME](https://img.shields.io/badge/knime-FDD800?style=for-the-badge&logo=knime&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-FFB903?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/tableau-003866?style=for-the-badge)
-![Alteryx](https://img.shields.io/badge/alteryx-0082CA?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Metabase](https://img.shields.io/badge/metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![KNIME](https://img.shields.io/badge/knime-FDD800?style=for-the-badge&logo=knime&logoColor=white)
+![Alteryx](https://img.shields.io/badge/alteryx-0082CA?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Superset](https://img.shields.io/badge/apache%20superset-02A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white)
 
 ![Coding](https://img.shields.io/badge/coding-505050?style=for-the-badge)\
