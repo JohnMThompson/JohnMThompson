@@ -12,6 +12,7 @@ Here are a few highlights from my portfolio!
 
 Project | Description | Link
 --- | --- | ---
+📊 Tableau Complexity | A python project to scan .twb and .twbx files and evaluate their complexity. 100% created using AI coding assistants.| [GitHub Repo](https://github.com/JohnMThompson/tableau-complexity)
 🏡 Mortgage Rate Tracker | A python script that feeds a Metabase dashboard to track daily mortgage rates | [Dashboard](https://metabase.johnthompson.io/public/dashboard/8eef25a5-d8a4-4033-96e6-b828af13b025) / [Blog](https://johnthompson.io/posts/mortgage-scraper/)
 🐶 Finnstructions | A static site built with mkdocs to outline care for our dog, Finn | [Site](https://johnthompson.io/finnstructions/) /  [GitHub Repo](https://github.com/JohnMThompson/finnstructions)
 ⚾ Twins Home Run Record | A Tableau dashboard tracking the 2019 Minnesota Twins home run race | [Tableau Public](https://public.tableau.com/app/profile/johnthompson/viz/TwinsHomeruns/Dashboard)
@@ -42,9 +43,12 @@ Check out [my website for more projects](https://johnthompson.io/portfolio)!
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/duckdb-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
+![AI Tools](https://img.shields.io/badge/ai_tools-505050?style=for-the-badge)\
+![Codex](https://img.shields.io/badge/codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-white?style=for-the-badge&logo=github&logoColor=black)
+![Power BI Copilot](https://img.shields.io/badge/power_bi_copilot-FFB903?style=for-the-badge)
+
 ![Deploying and Hosting](https://img.shields.io/badge/deploying_and_hosting-505050?style=for-the-badge)\
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Digital Ocean](https://img.shields.io/badge/digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black)
-
-### 
