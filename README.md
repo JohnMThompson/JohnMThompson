@@ -12,8 +12,10 @@ Here are a few highlights from my portfolio!
 
 Project | Description | Link
 --- | --- | ---
-📊 Tableau Complexity | A python project to scan .twb and .twbx files and evaluate their complexity. 100% created using AI coding assistants.| [GitHub Repo](https://github.com/JohnMThompson/tableau-complexity)
-🏡 Mortgage Rate Tracker | A python script that feeds a Metabase dashboard to track daily mortgage rates | [Dashboard](https://metabase.johnthompson.io/public/dashboard/8eef25a5-d8a4-4033-96e6-b828af13b025) / [Blog](https://johnthompson.io/posts/mortgage-scraper/)
+📈 Analytics Hub | A fully custom replacement for my Metabase deployment, hosting all my reporting & analytics projects | [GitHub Repo](https://github.com/JohnMThompson/analytics-hub) / [Site](https://analytics.johnthompson.io/)
+🏊 Swim Writer | A small utility and web app to parse a screenshot of my swimming workouts from Apple Fitness and write to a database. | [GitHub Repo](https://github.com/JohnMThompson/swim-workout-writer) / [Dashboard](https://analytics.johnthompson.io/dashboard/swim_tracking)
+📊 Tableau Complexity | A python project to scan .twb and .twbx files and evaluate their complexity. 100% created using AI coding assistants. | [GitHub Repo](https://github.com/JohnMThompson/tableau-complexity) / [Tiny Tool Town](https://www.tinytooltown.com/tools/tableau-complexity/)
+🏡 Mortgage Rate Tracker | A python script that feeds a dashboard to track daily mortgage rates | [Dashboard](https://analytics.johnthompson.io/dashboard/mortgage_rates) / [Blog](https://johnthompson.io/posts/mortgage-scraper/)
 🐶 Finnstructions | A static site built with mkdocs to outline care for our dog, Finn | [Site](https://johnthompson.io/finnstructions/) /  [GitHub Repo](https://github.com/JohnMThompson/finnstructions)
 ⚾ Twins Home Run Record | A Tableau dashboard tracking the 2019 Minnesota Twins home run race | [Tableau Public](https://public.tableau.com/app/profile/johnthompson/viz/TwinsHomeruns/Dashboard)
 🚛 Spatial Freight Cost Estimation | A method to estimate truck prices using geospatial data | [Presentation](https://www.linkedin.com/in/johnmthomp/overlay/1534972789625/single-media-viewer/) / [Dashboard](https://public.tableau.com/app/profile/johnthompson/viz/InverseDistanceWeightedInterpolation/TCAUGInverseTriangulationDemo)
@@ -22,7 +24,8 @@ Check out [my website for more projects](https://johnthompson.io/portfolio)!
 
 ## 🛠️ Tools
 
-![Analytics and BI](https://img.shields.io/badge/analytics_and_business_intelligence-505050?style=for-the-badge)\
+### Analytics and BI
+<!-- ![Analytics and BI](https://img.shields.io/badge/analytics_and_business_intelligence-505050?style=for-the-badge)\ -->
 ![Power BI](https://img.shields.io/badge/power_bi-FFB903?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/tableau-003866?style=for-the-badge)
 ![Metabase](https://img.shields.io/badge/metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
@@ -30,25 +33,32 @@ Check out [my website for more projects](https://johnthompson.io/portfolio)!
 ![Alteryx](https://img.shields.io/badge/alteryx-0082CA?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Superset](https://img.shields.io/badge/apache%20superset-02A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white)
 
-![Coding](https://img.shields.io/badge/coding-505050?style=for-the-badge)\
+### Coding
+<!-- ![Coding](https://img.shields.io/badge/coding-505050?style=for-the-badge)\ -->
 ![Python](https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57)
 ![SQL](https://img.shields.io/badge/sql-orange?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Databases](https://img.shields.io/badge/databases-505050?style=for-the-badge)\
+### Databases
+
+<!-- ![Databases](https://img.shields.io/badge/databases-505050?style=for-the-badge)\ -->
 ![MySQL](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=python&logoColor=f29111)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/duckdb-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
-![AI Tools](https://img.shields.io/badge/ai_tools-505050?style=for-the-badge)\
+### AI Tools
+
+<!-- ![AI Tools](https://img.shields.io/badge/ai_tools-505050?style=for-the-badge)\ -->
 ![Codex](https://img.shields.io/badge/codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-white?style=for-the-badge&logo=github&logoColor=black)
 ![Power BI Copilot](https://img.shields.io/badge/power_bi_copilot-FFB903?style=for-the-badge)
 
-![Deploying and Hosting](https://img.shields.io/badge/deploying_and_hosting-505050?style=for-the-badge)\
+### Deploying & Hosting
+
+<!-- ![Deploying and Hosting](https://img.shields.io/badge/deploying_and_hosting-505050?style=for-the-badge)\ -->
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Digital Ocean](https://img.shields.io/badge/digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black)
