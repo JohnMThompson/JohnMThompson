@@ -16,8 +16,6 @@ Project | Description | Link
 🏊 Swim Writer | A small utility and web app to parse a screenshot of my swimming workouts from Apple Fitness and write to a database. | [GitHub Repo](https://github.com/JohnMThompson/swim-workout-writer) / [Dashboard](https://analytics.johnthompson.io/dashboard/swim_tracking)
 📊 Tableau Complexity | A python project to scan .twb and .twbx files and evaluate their complexity. 100% created using AI coding assistants. | [GitHub Repo](https://github.com/JohnMThompson/tableau-complexity) / [Tiny Tool Town](https://www.tinytooltown.com/tools/tableau-complexity/)
 🦙 Ollama Linux Mint Applet | A small, dependency-free chat interface for local LLM models. | [GitHub Repo](https://github.com/JohnMThompson/ollama-mint-applet)
-🏡 Mortgage Rate Tracker | A python script that feeds a dashboard to track daily mortgage rates | [Dashboard](https://analytics.johnthompson.io/dashboard/mortgage_rates) / [Blog](https://johnthompson.io/posts/mortgage-scraper/)
-🐶 Finnstructions | A static site built with mkdocs to outline care for our dog, Finn | [Site](https://johnthompson.io/finnstructions/) /  [GitHub Repo](https://github.com/JohnMThompson/finnstructions)
 ⚾ Twins Home Run Record | A Tableau dashboard tracking the 2019 Minnesota Twins home run race | [Tableau Public](https://public.tableau.com/app/profile/johnthompson/viz/TwinsHomeruns/Dashboard)
 🚛 Spatial Freight Cost Estimation | A method to estimate truck prices using geospatial data | [Presentation](https://www.linkedin.com/in/johnmthomp/overlay/1534972789625/single-media-viewer/) / [Dashboard](https://public.tableau.com/app/profile/johnthompson/viz/InverseDistanceWeightedInterpolation/TCAUGInverseTriangulationDemo)
 
